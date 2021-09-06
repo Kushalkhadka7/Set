@@ -7,12 +7,12 @@ A set is a data structure that can store any number of unique values in any orde
 ## **Install and Usage**
 
 ```
-go get github.com/kushalkhadka7/Set
+go get github.com/kushalkhadka7/set
 
 ```
 
 ```
-import "github.com/kushalkhadka7/Set"
+import "github.com/kushalkhadka7/set"
 
 ```
 
