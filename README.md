@@ -67,25 +67,25 @@ i := s.Intersection(ns)
 ## **Available Methods**
 
 ```
-    Clear  # Empty current set.
+Clear  # Empty current set.
 
-	Size   # Size returns the current size of the set.
+Size   # Size returns the current size of the set.
 
-	IsEmpty  # IsEmpty checks the current set has elements in it or not.
+IsEmpty  # IsEmpty checks the current set has elements in it or not.
 
-	List  # List converts the set into slices.
+List  # List converts the set into slices.
 
-	Union # Union returns a new set with all the unique values in current set and other set.
+Union # Union returns a new set with all the unique values in current set and other set.
 
-	Has  # Has checks either the given item is in the set or not.
+Has  # Has checks either the given item is in the set or not.
 
-	IsSubSet  # IsSubSet checks either the current set is a subset of the other given set.
+IsSubSet  # IsSubSet checks either the current set is a subset of the other given set.
 
-	Add  # Add insert the given values in the set.
+Add  # Add insert the given values in the set.
 
-	Remove # Removes the given values from the set.
+Remove # Removes the given values from the set.
 
-	Difference # Difference returns new set containing only the elements of current set.
+Difference # Difference returns new set containing only the elements of current set.
 
-	Intersection # Intersection returns a new set which contains items that only exist in the current set.
+Intersection # Intersection returns a new set which contains items that only exist in the current set.
 ```
