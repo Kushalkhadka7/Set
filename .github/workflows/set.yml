@@ -1,16 +1,10 @@
-name: Covid Client
+name: Set
 
 on:
   push:
     branches:
       - master
       - dev
-    paths:
-      - './'
-
-defaults:
-  run:
-    working-directory: './'
 
 jobs:
   Install:

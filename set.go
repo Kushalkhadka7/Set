@@ -151,7 +151,7 @@ func (s *Set) Intersection(otherSet Setter) Setter {
 	return newSet
 }
 
-// Union returns a new set with all unique values in current set and other set.
+// Union returns a new set with all the unique values in current set and other set.
 func (s *Set) Union(otherSet Setter) Setter {
 	newSet := New()
 
